@@ -2,7 +2,7 @@
 - 👀 I’m interested in Engineering and Computer Science
 - 🌱 I’m currently learning Engineering in the University of Cambridge
 - 💞️ I’m looking to collaborate on Engineering project
-- 📫 How to reach me ziliao@ulinkcollege.com
+- 📫 How to reach me zl497@cam.ac.uk
 
 <!---
 supercarryleoliao/supercarryleoliao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
